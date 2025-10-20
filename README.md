@@ -17,10 +17,10 @@
 |:-------------------|:---------------|
 | **👤 Persona**     | Roman, Male    |
 | **🎂 Birthday**    | 25th March     |
-| **🧑‍💻 Programming** | Python        |
+| **🧑‍💻 Programming** | Python(🧑‍🎓), Java(🧑‍🎓)|
 | **🚀 IT Focus**    | Exploring different paths and technologies |
 | **🎮 Hobbies**     | Gym, Gaming, IT, Phone Engineering, Freedom |
-| **🔠 Languages**   | Russian, English, German (learning) |
+| **🔠 Languages**   | Russian (Native), English, German (🧑‍🎓) |
 
 </div>
 
