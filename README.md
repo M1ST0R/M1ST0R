@@ -19,7 +19,7 @@
 | **🎂 Birthday**    | 25th March     |
 | **🧑‍💻 Programming** | Python(🧑‍🎓), Java(🧑‍🎓)|
 | **🚀 IT Focus**    | Exploring different paths and technologies |
-| **🎮 Hobbies**     | Gym, Gaming, IT, Phone Engineering, Freedom |
+| **🎮 Hobbies**     | Gym, Gaming, IT, Phone Engineering, Freedom and etc |
 | **🔠 Languages**   | Russian (Native), English, German (🧑‍🎓) |
 
 </div>
