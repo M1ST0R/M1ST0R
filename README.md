@@ -58,6 +58,6 @@
 
 ### 🌟 Current Focus
 
-**✨ Striving for continuous growth and new challenges! ✨**
+**Learning languages and improving myself**
 
 </div>
