@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">M1ST0R — Roman</title>
+  <desc id="desc">A dark futuristic profile banner with cyan and violet light, abstract orbital geometry, and the text M1ST0R, Roman, Big Data and Machine Learning student.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080D1B"/>
+      <stop offset="0.55" stop-color="#10152A"/>
+      <stop offset="1" stop-color="#090D19"/>
+    </linearGradient>
+    <linearGradient id="headline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F5FAFF"/>
+      <stop offset="0.58" stop-color="#BEEBFF"/>
+      <stop offset="1" stop-color="#B8A8FF"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5CE1E6"/>
+      <stop offset="1" stop-color="#9C83FF"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow">
+      <stop offset="0" stop-color="#1EA8C8" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#1EA8C8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violetGlow">
+      <stop offset="0" stop-color="#7459E8" stop-opacity=".30"/>
+      <stop offset="1" stop-color="#7459E8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#9DB6D6" stroke-opacity=".10" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1.2" fill="#A9C6E8" fill-opacity=".18"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="165" cy="180" r="300" fill="url(#cyanGlow)"/>
+  <circle cx="1050" cy="190" r="300" fill="url(#violetGlow)"/>
+  <path d="M0 292C210 236 350 340 570 274S950 205 1200 250" fill="none" stroke="#5CE1E6" stroke-opacity=".12" stroke-width="1.5"/>
+  <path d="M0 310C230 252 370 355 600 294S975 230 1200 274" fill="none" stroke="#9C83FF" stroke-opacity=".14" stroke-width="1.5"/>
+
+  <g opacity=".6">
+    <path d="M720 0L530 360M840 0L650 360M960 0L770 360" stroke="#9DB6D6" stroke-opacity=".10"/>
+    <path d="M0 80H1200M0 280H1200" stroke="#9DB6D6" stroke-opacity=".08"/>
+  </g>
+
+  <g transform="translate(905 178)">
+    <circle r="132" fill="none" stroke="url(#accent)" stroke-opacity=".42" stroke-width="1.5"/>
+    <circle r="108" fill="none" stroke="#A8C7F0" stroke-opacity=".22" stroke-dasharray="3 9" stroke-width="2"/>
+    <circle r="78" fill="none" stroke="url(#accent)" stroke-opacity=".45" stroke-width="1.5"/>
+    <circle r="51" fill="#101A30" stroke="#B6DFFF" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="M-88 -12A90 90 0 0 1 50 -73" fill="none" stroke="#5CE1E6" stroke-width="5" stroke-linecap="round"/>
+    <path d="M-48 72A88 88 0 0 0 88 5" fill="none" stroke="#9C83FF" stroke-width="5" stroke-linecap="round"/>
+    <path d="M0 -28L26 0L0 28L-26 0Z" fill="url(#accent)" opacity=".9"/>
+    <circle cx="0" cy="0" r="8" fill="#F4FBFF"/>
+    <circle cx="-112" cy="-70" r="5" fill="#5CE1E6"/>
+    <circle cx="112" cy="55" r="5" fill="#B49BFF"/>
+    <circle cx="52" cy="-119" r="3" fill="#D9F5FF"/>
+    <path d="M-150 0H-125M125 0H150M0 -150V-125M0 125V150" stroke="#B6DFFF" stroke-opacity=".55"/>
+  </g>
+
+  <g fill="#D8E8FF" opacity=".7">
+    <circle cx="790" cy="72" r="2"/><circle cx="1084" cy="82" r="2"/>
+    <circle cx="1126" cy="246" r="1.8"/><circle cx="760" cy="260" r="1.8"/>
+    <circle cx="1000" cy="312" r="1.5"/><circle cx="860" cy="42" r="1.5"/>
+  </g>
+
+  <g transform="translate(78 63)">
+    <rect width="280" height="34" rx="17" fill="#14263A" stroke="#5CE1E6" stroke-opacity=".35"/>
+    <circle cx="18" cy="17" r="4" fill="#5CE1E6"/>
+    <text x="34" y="22" fill="#B9D8EA" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2.1">BUILDING IN PUBLIC</text>
+
+    <text x="0" y="139" fill="url(#headline)" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800" letter-spacing="4">M1ST0R</text>
+    <rect x="3" y="159" width="74" height="4" rx="2" fill="url(#accent)"/>
+    <text x="0" y="198" fill="#E4EDF9" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600" letter-spacing="5">ROMAN</text>
+    <text x="0" y="239" fill="#B9C8DE" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing=".5">Big Data &amp; Machine Learning student</text>
+    <text x="0" y="275" fill="#7F97B7" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2.2">SOFTWARE  ·  AUTOMATION  ·  APPLIED AI</text>
+  </g>
+
+  <path d="M78 326H1122" stroke="url(#accent)" stroke-opacity=".42"/>
+  <text x="78" y="347" fill="#7287A5" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">LEARN  /  BUILD  /  ITERATE</text>
+  <text x="1122" y="347" fill="#7287A5" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2" text-anchor="end">M1ST0R.GITHUB.IO</text>
+</svg>
