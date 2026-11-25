@@ -4,26 +4,21 @@
   <img src="assets/profile-banner.svg" alt="M1ST0R — Roman, Big Data and Machine Learning student" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://github.com/M1ST0R"><img src="https://img.shields.io/badge/GitHub-M1ST0R-161B2E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://t.me/gtoirul"><img src="https://img.shields.io/badge/Telegram-Let's%20talk-168AAD?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-</p>
-
 <h2 align="center">Hey, I'm Roman 👋</h2>
 
 <p align="center">
   <strong>Big Data &amp; Machine Learning student</strong><br>
-  I enjoy turning ideas into practical software — from desktop tools and automation to small products and experiments.
+  I enjoy turning ideas into practical software — from desktop tools and automation to small products and experiments
 </p>
 
 ---
 
 ## ✦ A little about me
 
-- 🎓 Studying **Big Data &amp; Machine Learning**.
-- 🛠️ Building desktop applications, automation tools and browser-based projects.
-- 🧠 Interested in **applied AI, local models, data engineering and useful developer tools**.
-- 🔍 I like understanding how things work under the hood — and improving them one iteration at a time.
+- 🎓 Studying **Big Data &amp; Machine Learning**
+- 🛠️ Building desktop applications, automation tools and browser-based projects
+- 🧠 Interested in **applied AI, local models, data engineering and useful developer tools**
+- 🔍 I like understanding how things work under the hood — and improving them one iteration at a time
 
 ## 🚀 Selected projects
 
@@ -31,13 +26,16 @@
 [![Build](https://github.com/M1ST0R/hethereau-hobbies-tool/actions/workflows/build.yml/badge.svg)](https://github.com/M1ST0R/hethereau-hobbies-tool/actions/workflows/build.yml)
 [![Latest release](https://img.shields.io/github/v/release/M1ST0R/hethereau-hobbies-tool?style=flat&color=8B7CFF)](https://github.com/M1ST0R/hethereau-hobbies-tool/releases)
 
-A modular desktop toolkit for automating repetitive activities in **Neverness to Everness**. Built with Python and PySide6 / Qt Quick (QML), with OCR, window-aware input and a live control dashboard.
+A modular desktop toolkit for automating repetitive activities in **Neverness to Everness**. Built with Python and PySide6 / Qt Quick (QML), with OCR, window-aware input and a live control dashboard
 
 ### [ProCraft — Community Localization](https://github.com/M1ST0R/procraft_localization)
-A community localization proposal for ProCraft: a documented language-pack format, contributor guidance and a foundation for user-created translations.
+[![Build](https://github.com/M1ST0R/procraft_localization/actions/workflows/desktop-build.yml/badge.svg)](https://github.com/M1ST0R/procraft_localization/actions/workflows/desktop-build.yml)
+[![Latest release](https://img.shields.io/github/v/release/M1ST0R/procraft_localization?style=flat&color=8B7CFF)](https://github.com/M1ST0R/procraft_localization/releases)
+
+A community localization proposal for ProCraft: a documented language-pack format, contributor guidance and a foundation for user-created translations
 
 ### [Pivot — Startup Tycoon](https://github.com/M1ST0R/startup_tycoon)
-A browser-based management game about growing one IT startup: hire a team, develop a product, attract customers and keep the company financially healthy.
+A browser-based management game about growing one IT startup: hire a team, develop a product, attract customers and keep the company financially healthy
 
 ---
 
@@ -58,7 +56,7 @@ A browser-based management game about growing one IT startup: hire a team, devel
 
 **Machine learning · Data engineering · Local AI · Desktop UX · Automation architecture**
 
-I’m especially interested in connecting these areas to build software that is useful, reliable and pleasant to use.
+I’m especially interested in connecting these areas to build software that is useful, reliable and pleasant to use
 
 ## 📊 GitHub at a glance
 
@@ -76,5 +74,5 @@ I’m especially interested in connecting these areas to build software that is 
 </p>
 
 <p align="center">
-  <sub>Thanks for stopping by. Have a great day — and keep building cool things. ✨</sub>
+  <sub>Thanks for stopping by. Have a great day — and keep building cool things ✨</sub>
 </p>
